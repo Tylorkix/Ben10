@@ -2,7 +2,7 @@
 ## <p align="center"> ZORO-V1-MD WHATSAPP BOT
 <br>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+DEXTER-V1-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DEXTER;RELEASED+DATE+24%2F03%2F2024." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+BEN10-V1-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+TYLOR;RELEASED+DATE+24%2F03%2F2024." alt="Typing SVG" /></a>
 </p>
 
 
