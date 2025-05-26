@@ -1,7 +1,7 @@
 {
   "name": "𝙏𝙮𝙡𝙤𝙧-𝘼𝙄",
   "description": "Javascript WhatsApp bot made by Tylor",
-  "logo": "https://files.catbox.moe/8xk9cz.jpg",
+  "logo": "https://files.catbox.moe/b0edry.jpg",
   "keywords": ["POPKID_XTECH"],
   "success_url": "/",
 
@@ -86,7 +86,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Popkid"
+      "value": "Tylor"
 }, 
 
     "OWNER_NUMBER": {
@@ -125,13 +125,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/tkebt3.jpg"
+      "value": "https://files.catbox.moe/b0edry.jpg"
     },
      
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PopkidXtech*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏTylor*"
     },
 
       "DELETE_LINKS": {
