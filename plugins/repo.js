@@ -180,7 +180,7 @@ ${repoData.description || 'No description provided'}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363290715861418@newsletter',
-                    newsletterName: config.OWNER_NAME || 'Popkid Xtech',
+                    newsletterName: config.OWNER_NAME || 'Tylor Xtech',
                     serverMessageId: 143
                 }
             }
