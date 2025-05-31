@@ -53,7 +53,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *├⬡* *.ᴡᴇᴀᴛʜᴇʀ*
 *├📟* *.sᴛɪᴄᴋsᴇᴀʀᴄʜ*
 *┕──────────────❒*
-*╭────💖⁠⁠*⁠⁠ *LOGO-CMD* *💖⁠⁠⁠⁠* 
+*╭────🤍⁠⁠*⁠⁠ *LOGO-CMD* *🤍⁠⁠* 
 *├📀* *.3ᴅᴄᴏᴍɪᴄ*
 *├⬡* *.ᴅʀᴀɢᴏɴʙᴀʟʟ*
 *├⬡* *.ᴅᴇᴀᴅᴘᴏᴏʟ*
@@ -198,7 +198,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *├🧊* *.ss*
 *┕──────────────❒*
 *╭────🪩⁠⁠* *OTHER-CMD* *🪩⁠⁠* 
-*├🫠* *.ᴛʀᴛ*
+*├*🇧🇸 *.ᴛʀᴛ*
 *├⬡* *.ᴊᴏᴋᴇ*
 *├⬡* *.ꜰᴀᴄᴛ*
 *├⬡* *.ɢɪᴛʜᴜʙ*
@@ -213,14 +213,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *├⬡* *.ʀᴀɴᴋ*
 *├⬡* *.Tɪᴍᴇᴢᴏɴᴇ*
 *├⬡* *.ᴅᴇꜰɪɴᴇ*
-*├🫠* *.Dᴀɪʟʏꜰᴀᴄᴛ*
+*├🇧🇸* *.Dᴀɪʟʏꜰᴀᴄᴛ*
 *┕─────────────❒*
 > 𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙏𝙔𝙇𝙊𝙍🎲`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/e6rhto.jpg` },
+                image: { url: `https://files.catbox.moe/17km9c.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -228,7 +228,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363290715861418@newsletter',
-                        newsletterName: 'PᴏᴘᴋɪᴅXᴛᴇᴄʜ',
+                        newsletterName: 'BentenXᴛᴇᴄʜ',
                         serverMessageId: 143
                     }
                 }
@@ -238,7 +238,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/kxdej4.m4a' },
+            audio: { url: 'https://files.catbox.moe/24a9p1.mp4' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
