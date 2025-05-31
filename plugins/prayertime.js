@@ -61,7 +61,7 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363290715861418@newsletter',
-                        newsletterName: '𝐏𝐎𝐏𝐊𝐈𝐃 𝐏𝐑𝐀𝐘𝐄𝐑𝐓𝐈𝐌𝐄',
+                        newsletterName: '𝘽𝙀𝙉𝙏𝙀𝙉 𝙋𝙍𝘼𝙔𝙀𝙍𝙏𝙄𝙈𝙀',
                         serverMessageId: 143
                     }
                 }

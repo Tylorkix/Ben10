@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ 💎 popkid 💎*`;
+> *@ ☯︎ 𝘽𝙀𝙉-𝙏𝙀𝙉☯︎ *`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫💎 popkid-xᴍᴅ 💎 Word not found. Please check the spelling and try again.");
+                                     return reply("🚫💎 benten-xᴍᴅ 💎 Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }

@@ -31,7 +31,7 @@ cmd({
         let buffer = await getBuffer(imageUrl);
         let sticker = new Sticker(buffer, {
             pack: "Emoji Mix",
-            author: "POPKID-MD",
+            author: "𝘽𝙀𝙉-𝙏𝙀𝙉 𝙈𝘿",
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
             quality: 75,

@@ -5,7 +5,7 @@ cmd({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for POPKID-MD bot",
+    desc: "Get pairing code for 𝘽𝙀𝙉-𝙏𝙀𝙉-𝙈𝘿 bot",
     category: "download",
     use: ".pair +25473229XXX",
     filename: __filename
@@ -27,7 +27,7 @@ cmd({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *POPKID-MD PAIRING COMPLETED🪆*";
+        const doneMessage = "> *𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿 PAIRING COMPLETED☯︎*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
@@ -49,7 +49,7 @@ cmd({
     pattern: "pair2",
     alias: ["getpair2", "clonebot2"],
     react: "✅",
-    desc: "Get pairing code for POPKID-MD bot",
+    desc: "Get pairing code for 𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿 bot",
     category: "download",
     use: ".pair +25473229XXX",
     filename: __filename
@@ -71,7 +71,7 @@ cmd({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *POPKID-MD PAIRING COMPLETED🪆*";
+        const doneMessage = "> *𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿 PAIRING COMPLETED☯︎*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);

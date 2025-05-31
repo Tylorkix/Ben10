@@ -40,8 +40,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "POPKID-MD 🥀",
-            body: config.DESCRIPTION || "POWERED BY POPKID XTECH🤌💗",
+            title: config.BOT_NAME || "𝐁𝐄𝐍-𝐓𝐄𝐍-𝐌𝐃 ☯︎",
+            body: config.DESCRIPTION || "POWERED BY 𝐁𝐄𝐍𝐓𝐄𝐍 𝐗𝐓𝐄𝐂𝐇🤌💗",
             mediaType: 1,
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,

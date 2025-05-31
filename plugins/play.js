@@ -29,13 +29,13 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
 
-        let ytmsg = `📹 *Popkid Video Downloader*
+        let ytmsg = `📹 *𝘽𝙀𝙉𝙏𝙀𝙉 Video Downloader*
 🎬 *Title:* ${yts.title}
 ⏳ *Duration:* ${yts.timestamp}
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> Powered by PopkidXtech❤️`;
+> 𝙏𝙔𝙇𝙊𝙍 𝘽𝙔 𝙏𝙔𝙇𝙊𝙍❤️`;
 
         // Send video directly with caption
         await conn.sendMessage(

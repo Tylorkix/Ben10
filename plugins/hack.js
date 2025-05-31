@@ -43,7 +43,7 @@ async (conn, mek, m, {
             '⚠️ *Note:* All actions are for demonstration purposes only.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             
-            '> *POPKID-MD-HACKING-COMPLETE ☣*'
+            '> *𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿-𝙃𝘼𝘾𝙆𝙄𝙉𝙂-𝘾𝙊𝙈𝙋𝙇𝙀𝙏𝙀 ☣*'
         ];
 
         for (const line of steps) {

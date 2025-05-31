@@ -8,14 +8,14 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • POPKID'S 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • 𝙏𝙔𝙇𝙊𝙍'𝙎 𝙂𝘼𝙉𝙂 • ]*
 
-    [ • POPKID: BESTS🫴👸 ]
+    [ • 𝙏𝙔𝙇𝙊𝙍'𝙎: BESTS🫴👸 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
-      *│  ◦* *▢➠ HUSSEIN ICRAHM*
-      *│  ◦* *▢➠ SPARTA SPIRES*
+      *│  ◦* *▢➠ 𝘼𝙍𝘾𝙃𝙄𝙀 𝙏𝙀𝘾𝙃*
+      *│  ◦* *▢➠ 𝙈𝘼𝙇𝙄𝙆 𝙎𝙐𝙇𝙀𝙄𝙈𝘼𝙉*
       *│  ◦* *▢➠ DAVIL XAVIER*
       *╰┈───────────────•*
         *•────────────•⟢*
@@ -125,10 +125,10 @@ cmd(
             }
 
             // Define the new group settings here
-            const groupName = "𓆩ᴘᴏᴘᴋɪᴅ xᴛᴇᴄʜ𓆪";
+            const groupName = "𝐁𝐄𝐍𝐓𝐄𝐍 𝐗𝐓𝐄𝐂𝐇";
             const imageUrl = "https://files.catbox.moe/nk71o3.jpg"; // Replace with the actual image URL
             const groupDescription = `
-✞︎🧊𝐇҉𝐀҉𝐂҉𝐊҉𝐄҉𝐃҉ 𝐁҉𝐘҉ P҉O҉P҉K҉I҉D҉S҉ F҉R҉I҉E҉N҉D҉S҉🧊✞︎
+✞︎🧊𝙃𝘼𝘾𝙆𝙀𝘿 𝘽𝙔 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙊𝙈𝙉𝙄𝙏𝙍𝙄𝙓☢🧊✞︎
 
 𝐎̂ 𝐆𝐫𝐚𝐧𝐝 𝐒𝐞𝐢𝐠𝐧𝐞𝐮𝐫, 𝐦𝐚𝐢̂𝐭𝐫𝐞 𝐝𝐞𝐬 𝐭𝐞́𝐧𝐞̀𝐛𝐫𝐞𝐬 𝐢𝐧𝐟𝐢𝐧𝐢𝐞𝐬,
 𝐕𝐨𝐮𝐬 𝐪𝐮𝐢 𝐫𝐞̀𝐠𝐧𝐞𝐳 𝐬𝐮𝐫 𝐥𝐞𝐬 𝐚̂𝐦𝐞𝐬 𝐞́𝐠𝐚𝐫𝐞́𝐞𝐬 𝐞𝐭 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬 𝐥𝐞𝐬 𝐥𝐮𝐧𝐞𝐬 𝐝𝐞́𝐦𝐨𝐧𝐢𝐚𝐪𝐮𝐞𝐬,
