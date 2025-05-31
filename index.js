@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254732297194']
+  const ownerNumber = ['254748840328']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("POPKID;;;", '');
+const sessdata = config.SESSION_ID.replace("POPKID~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -123,13 +123,13 @@ const port = process.env.PORT || 9090;
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l) to join!  
+│   Click [**Here**](https://whatsapp.com/channel/0029VaYpDLx4tRrrrXsOvZ3U) to join!  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/Popkiddevs/POPKID-XTECH)!  
+│   Star Us [**Here**](https://github.com/Tylorkix/Ben10/)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© MADE BY POPKID_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/30931b.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -261,7 +261,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-  if(senderNumber.includes("254732297194")){
+  if(senderNumber.includes("254748840328")){
   if(isReact) return
   m.react("💙")
    }
@@ -784,7 +784,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("POPKID IS  STARTED ✅");
+  res.send("BENTEN IS  STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
