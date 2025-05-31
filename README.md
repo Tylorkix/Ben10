@@ -15,10 +15,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TYLOR TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
-<a href="https://github.com/popkid-ke/popkid-ke/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
-<a href="https://github.com/POPKID-KE/POPKID-ke/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Popkid-ke/popkid-ke?style=social"></a>
-<a href="https://github.com/Popkid-ke/Popkid-ke/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkidtech/Popkid-ke?label=Watching&style=social"></a>
+<a href="https://github.com/Tylorkix/Ben10? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tylorkix?label=Followers&style=social"></a>
+<a href="https://github.com/Tylorkix/Ben10/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
+<a href="https://github.com/Tylorkix/Ben10/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tylorkix/Ben10?style=social"></a>
+<a href="https://github.com/Tylorkix/Ben10/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TylorTech/BEN10?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
