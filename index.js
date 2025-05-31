@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254748840328']
+  const ownerNumber = ['254732297194']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("POPKID~", '');
+const sessdata = config.SESSION_ID.replace("POPKID;;;", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -112,7 +112,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙊𝙈𝙉𝙄𝙏𝙍𝙄𝙓 Legend! ✨*
+    let up = `*✨ Hello, 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙊𝙈𝙉𝙄𝙏𝙍𝙄𝙓 Legend! ✨*
 
 ╭─〔 *🤖 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙓𝙈𝘿* 〕  
 ├─▸ *Simplicity. Speed. Power. BY 𝙏𝙔𝙇𝙊𝙍.  
@@ -128,8 +128,8 @@ const port = process.env.PORT || 9090;
 │   Star Us [**Here**](https://github.com/Tylorkix/Ben10/)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
-> _© 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙏𝙔𝙇𝙊𝙍_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/30931b.jpg` }, caption: up })
+> _© MADE BY POPKID_`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -261,7 +261,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-  if(senderNumber.includes("254748840328")){
+  if(senderNumber.includes("254732297194")){
   if(isReact) return
   m.react("💙")
    }
@@ -784,7 +784,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("BENTEN IS  STARTED ✅");
+  res.send("POPKID IS  STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
