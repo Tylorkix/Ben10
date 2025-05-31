@@ -66,7 +66,7 @@ cmd({
 
         // Send menu audio only once
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/10rp3b.m4a' },
+            audio: { url: 'https://files.catbox.moe/24a9p1.mp4' },
             mimetype: 'audio/mp4',
             ptt: true,       
         }, { quoted: mek });
@@ -376,7 +376,7 @@ cmd({
                     await conn.sendMessage(
                         senderID,
                         {
-                            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/nex0fm.jpg' },
+                            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/rxx5q1.jpg' },
                             caption: selectedMenu.content,
                             contextInfo: contextInfo
                         },
