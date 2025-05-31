@@ -1,7 +1,7 @@
 {
-  "name": "𝙏𝙮𝙡𝙤𝙧-𝘼𝙄",
+  "name": "𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿",
   "description": "Javascript WhatsApp bot made by Tylor",
-  "logo": "https://files.catbox.moe/b0edry.jpg",
+  "logo": "https://files.catbox.moe/17km9c.jpg",
   "keywords": ["POPKID_XTECH"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝗧𝘆𝗹𝗼𝗿𓃠"
+      "value": "𝘽𝙀𝙉𝙏𝙀𝙉☯︎"
     }, 
       
     "PREFIX": {
@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝗧𝘆𝗹𝗼𝗿 𝗠𝗗𓃠*"
+      "value": "*SEEN YOUR STATUS BY POPKID-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Tylor"
+      "value": "Popkid"
 }, 
 
     "OWNER_NUMBER": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝗧𝘆𝗹𝗼𝗿 𝗠𝗗"
+      "value": "𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿"
 
       }, 
 
@@ -125,13 +125,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/b0edry.jpg"
+      "value": "https://files.catbox.moe/tkebt3.jpg"
     },
      
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏTylor*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PopkidXtech*"
     },
 
       "DELETE_LINKS": {
