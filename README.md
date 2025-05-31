@@ -34,7 +34,10 @@
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Tylorkix/Ben10/fork"><img src="https://img.shields.io/badge/Fork%20BEN-TEN-MD%20Repo-blue" alt="FORK BEN-TEN-MD REPO" width="150"></a>
+<a href="https://github.com/Tylorkix/Ben10/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
