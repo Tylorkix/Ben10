@@ -36,7 +36,7 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/Tylorkix/Ben10/fork"><img title="GOTAR-XMD" src="https://img.shields.io/badge/FORK-GOTAR%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Tylorkix/Ben10/fork"><img title="BENTEN-XMD" src="https://img.shields.io/badge/FORK-BENTEN%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
