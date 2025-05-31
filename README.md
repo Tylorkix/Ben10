@@ -18,7 +18,7 @@
 <a href="https://github.com/Tylorkix/Ben10? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Tylorkix?label=Followers&style=social"></a>
 <a href="https://github.com/Tylorkix/Ben10/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
 <a href="https://github.com/Tylorkix/Ben10/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tylorkix/Ben10?style=social"></a>
-<a href="https://github.com/Tylorkix/Ben10/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TylorTech/BEN10?label=Watching&style=social"></a>
+<a href="https://github.com/Tylorkix/Ben10/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tylorkix/BEN10?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
