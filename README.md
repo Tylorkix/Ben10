@@ -23,18 +23,18 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   ## MUST FOLLOW OUR OFFICIAL CHANNEL
-<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaYpDLx4tRrrrXsOvZ3U" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## SETUP FOR *POPKID* 𝗠𝗗
+## SETUP FOR *BENTEN* 𝗠𝗗
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/popkid-ke/popkid-ke/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
+<a href="https://github.com/Tylorkix/Ben10/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK BEN-TEN-MD REPO" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
