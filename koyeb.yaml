@@ -1,6 +1,6 @@
-name: popkid_xtech
+name: benten_xtech
 services:
-  - name: popkid_xtech-service
+  - name: benten_xtech-service
     type: web
     ports:
       - 5000
