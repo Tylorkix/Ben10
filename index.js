@@ -112,14 +112,14 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, POPKID-XTECH Legend! ✨*
+  let up = `*✨ Hello, 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙊𝙈𝙉𝙄𝙏𝙍𝙄𝙓 Legend! ✨*
 
-╭─〔 *🤖 POPKID-XTECH BOT* 〕  
-├─▸ *Simplicity. Speed. Power. BY JOSEPH.  
-|    MWANGI!*  
+╭─〔 *🤖 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙓𝙈𝘿* 〕  
+├─▸ *Simplicity. Speed. Power. BY 𝙏𝙔𝙇𝙊𝙍.  
+|    𝘼𝙈𝘼𝙉𝙄*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing JOEX-MD!*
+*☯︎ Thank you for Choosing 𝘽𝙀𝙉-𝙏𝙀𝙉 𝙈𝘿☯︎!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
@@ -128,7 +128,7 @@ const port = process.env.PORT || 9090;
 │   Star Us [**Here**](https://github.com/Tylorkix/Ben10/)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
-> _© MADE BY POPKID_`;
+> _© 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙏𝙔𝙇𝙊𝙍_`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/30931b.jpg` }, caption: up })
   }
   })
