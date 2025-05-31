@@ -70,7 +70,7 @@
  ## CONTACT DEVELOPER ON WHATSAPP 
  
 <a href="https://wa.me/254748840328" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Tylor Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dev Tylor contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
 </p>
 
