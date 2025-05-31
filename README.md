@@ -80,6 +80,6 @@ Contributions to BENTEN-MD are welcome! If you have ideas for new features, impr
 
 ## License
 
-The WhatsApp Bot *TYLOR ARMANI* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot *BEN TEN* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 🌟 THANK YOU FOR CHOOSING BENTEN-MD 🌟
