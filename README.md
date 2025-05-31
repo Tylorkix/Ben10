@@ -59,33 +59,27 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 4.DEPLOY POPKID-MD V5.0.0
+## 4.DEPLOY BENTEN-MD V1.0.0
 (No BAN. 100% safe) 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/popkid-ke/popkid-ke&template=hhttps://github.com/popkid-ke/popkid-ke.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Tylorkix/Ben10&template=hhttps://github.com/popkid-ke/popkid-ke.git)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## DEPLOY ANY BOT OF YOUR CHOICE
-
-<a href="https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main"><img title="Deploy the bot of your choice" src="https://img.shields.io/badge/DEPLOY ANY BOT-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
  ## CONTACT DEVELOPER ON WHATSAPP 
  
-<a href="https://wa.me/254111385747" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Popkid Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254748840328" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Tylor Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
 </p>
 
 ## CONTRIBUTIONS
 
-Contributions to POPKID-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to BENTEN-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
 ## License
 
-The WhatsApp Bot *POPKID* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot *TYLOR ARMANI* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-🌟 THANK YOU FOR CHOOSING POPKID-MD 🌟
+🌟 THANK YOU FOR CHOOSING BENTEN-MD 🌟
