@@ -13,17 +13,17 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY POPKID-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY BEN10-MD 🤍*",
 // set the auto reply massage on status reply  
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/e6rhto.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://en.ephoto360.com/2025/06/683c71e7c71ba.jpg-s741-b2",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "POPKID-MD",
+BOT_NAME: process.env.BOT_NAME || "BENTEN-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "POPKID-MD",
+STICKER_NAME: process.env.STICKER_NAME || "BENTEN-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -31,15 +31,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254748840328",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Pᴏᴘᴋɪᴅ Xᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "BENTEN XTECH",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Pᴏᴘᴋɪᴅ Xᴛᴇᴄʜ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ BENTEN XTECH*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tkebt3.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Am Active *POPKID-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Am Active *BENTEN-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
