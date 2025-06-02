@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("BENTEN;;;", '');
+const sessdata = config.SESSION_ID.replace("POPKID;;;", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -112,24 +112,24 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-    let up = `*✨ Hello, 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙊𝙈𝙉𝙄𝙏𝙍𝙄𝙓 Legend! ✨*
+  let up = `*✨ Hello, POPKID-XTECH Legend! ✨*
 
-╭─〔 *🤖 𝘽𝙀𝙉 𝙏𝙀𝙉 𝙓𝙈𝘿* 〕  
-├─▸ *Simplicity. Speed. Power. BY 𝙏𝙔𝙇𝙊𝙍.  
-|    𝘼𝙈𝘼𝙉𝙄*  
+╭─〔 *🤖 POPKID-XTECH BOT* 〕  
+├─▸ *Simplicity. Speed. Power. BY JOSEPH.  
+|    MWANGI!*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*☯︎ Thank you for Choosing 𝘽𝙀𝙉-𝙏𝙀𝙉 𝙈𝘿☯︎!*
+*❤️ Thank you for Choosing JOEX-MD!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029VaYpDLx4tRrrrXsOvZ3U) to join!  
+│   Click [**Here**](https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l) to join!  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/Tylorkix/Ben10/)!  
+│   Star Us [**Here**](https://github.com/Popkiddevs/POPKID-XTECH)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© MADE BY POPKID_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://en.ephoto360.com/2025/06/683d3023370f1.jpg-s747-b1` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -784,7 +784,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("BENTEN IS  STARTED ✅");
+  res.send("POPKID IS  STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
