@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("POPKID;;;", '');
+const sessdata = config.SESSION_ID.replace("BENTEN;;;", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -129,7 +129,7 @@ const port = process.env.PORT || 9090;
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© MADE BY POPKID_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/e6rhto.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://en.ephoto360.com/2025/06/683d3023370f1.jpg-s747-b1` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
